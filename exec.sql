@@ -1,0 +1,1 @@
+@E:\OraclePLSQL\ex\anonymose.sql
